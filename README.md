@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshar Singhal</h1>
 <h3 align="center">An Aspiring Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksharsinghal&label=Profile%20views&color=0e75b6&style=flat" alt="aksharsinghal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeWithAkshar&label=Profile%20views&color=0e75b6&style=flat" alt="aksharsinghal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksharsinghal" alt="aksharsinghal" /></a> </p>
 
