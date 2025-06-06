@@ -39,5 +39,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksharsinghal&show_icons=true&locale=en&layout=compact" alt="aksharsinghal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksharsinghal&show_icons=true&locale=en" alt="CodewithAkshar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksharsinghal&show_icons=true&locale=en" alt="CodeWithAkshar" /></p>
 
