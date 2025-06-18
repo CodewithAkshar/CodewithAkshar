@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksharsinghal" alt="aksharsinghal" /></a> </p>
 
-- 💬 Ask me about **Core Java, Springboot, MySQL, HTML, CSS, JS**
+- 💬 Ask me about **Core Java, Springboot, MySQl**
 
 - 📫 How to reach me **singhalakshar123@gmail.com**
 
