@@ -1,4 +1,4 @@
-![logo](file:///Users/aksharsinghal/Downloads/logo.png)
+![logo](https://github.com/CodewithAkshar/CodewithAkshar/blob/main/Akshar%20Singhal%20NEW.png)
 <h1 align="center">Hi 👋, I'm Akshar Singhal</h1>
 <h3 align="center">An Aspiring Java developer from India</h3>
 
